@@ -1,7 +1,7 @@
 function Header() {
     
     return (
-        <h1>포켓몬 API 호출 연습</h1>
+        <h1>포켓몬 API 호출 TEST</h1>
     );
 }
 
